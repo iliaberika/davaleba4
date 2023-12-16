@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.html {
+    color: red;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+.blue {
+    color: blue;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+
+
+.main2 {
+    display: flex;
+    justify-content: left;
+    margin-top: 50px;
+    margin-left: 60px;
+    width: 100%;
+
+}
+
+
+
+.div1 {
+    width: 400px;
+    height: 100%;
+    display: inline-block;
+    margin-left: 30px;
+    background-color: rgb(230, 226, 226);
+    padding-left: 20px;
+
+    padding-right: 20px;
+    position: relative;
+
+
+}
+
+.div1_header {
+    color: blue;
+}
+
+.featured {
+    display: block;
+    position: absolute;
+    left: 7%;
+
+}
+
+.main3 {
+    display: flex;
+
+}
+
+.fb {
+    width: 50px;
+    margin-top: 60px;
+
+}
