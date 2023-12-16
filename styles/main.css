@@ -7,12 +7,16 @@ body {
     display: inline-block;
     margin-left: 10px;
     margin-right: 30px;
+    font-size: 20px;
+    text-decoration: none;
 }
 
 .blue {
     color: blue;
     display: inline-block;
     margin-right: 30px;
+    font-size: 20px;
+    text-decoration: none;
 }
 
 .images {
